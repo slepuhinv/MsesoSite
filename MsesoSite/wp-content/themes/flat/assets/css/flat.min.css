@@ -6458,7 +6458,8 @@ input#submit:active, input#submit.active {
 .hentry .entry-title {
     margin-top: 0;
     text-align: center;
-    font-size: 48px;
+    font-size: 30px;
+    font-weight: 600;
 }
 @media (max-width:1199px) {
     .hentry .entry-title {
