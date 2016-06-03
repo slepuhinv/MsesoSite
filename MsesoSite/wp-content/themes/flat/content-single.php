@@ -21,7 +21,7 @@ if ( get_the_author_meta( 'description' ) && empty( $single_author_box ) ) {
 
 	<?php flat_hook_entry_before(); ?>
 
-	<div class="entry-content" itemprop="articleBody">
+	<div itemprop="articleBody">
 		<?php flat_hook_entry_top(); ?>
 		<?php the_content( __( 'Continue reading', 'flat' ) ); ?>
 		<?php 

@@ -236,13 +236,13 @@
     outline: 0;
 }
 .panel_bvi #panel_font_size_14 {
-    font-size: 13px;
+    font-size: 18px;
 }
 .panel_bvi #panel_font_size_18 {
     font-size: 15px;
 }
 .panel_bvi #panel_font_size_23 {
-    font-size: 18px;
+    font-size: 13px;
 }
 .panel_bvi #panel_font_size_14, #panel_font_size_18, #panel_font_size_23 {
     padding: 4px;

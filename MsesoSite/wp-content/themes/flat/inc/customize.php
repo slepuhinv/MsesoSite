@@ -697,12 +697,12 @@ function flat_fonts_url() {
 	$fonts[] = flat_get_theme_option( 'site_title_font_family', 'Amatic+SC' );
 	$fonts[] = flat_get_theme_option( 'global_font_family', 'Roboto:400,700' );
 	$fonts[] = flat_get_theme_option( 'heading_font_family', 'Roboto+Slab' );
-	$fonts[] = flat_get_theme_option( 'sub_heading_font_family', 'Roboto+Condensed' );
+	$fonts[] = flat_get_theme_option( 'sub_heading_font_family', 'Roboto+Condensed&subset=latin,cyrillic,cyrillic-ext' );
 
 	if ( $fonts ) {
 		$fonts_url = add_query_arg( array(
 			'family' => esc_attr( implode( '%7C', $fonts ) )
-		), '//fonts.googleapis.com/css' );
+		), 'https://fonts.googleapis.com/css' );
 	}
 
 	return $fonts_url;

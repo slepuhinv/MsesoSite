@@ -15,7 +15,7 @@
 	<?php $archive_content = flat_get_theme_option( 'archive_content' ); ?>
 		<?php flat_hook_entry_before(); ?>
 	<?php if ( empty ( $archive_content ) ) : ?>
-		<div class="entry-content" itemprop="articleBody">
+		<div itemprop="articleBody">
 			<?php flat_hook_entry_top(); ?>
 			<?php the_content( __( 'Continue reading', 'flat' ) ); ?>
 			<?php wp_link_pages( array( 'before' => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'flat' ) . '</span>', 'after' => '</div>', 'link_before' => '<span>', 'link_after' => '</span>' ) ); ?>
