@@ -1,1 +1,276 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('(3(b){M a={1c:3(d){M c=b(g).1S;M d=b.1Q({6:1,h:"O",5:"14",j:1},d);8(2.e("6")=="1"){a.G();a.W(d);a.j();a.B();a.5();b(c).D();b(c).I(b(\'<v p="o" F="1e:1m">\').T("Обычная версия"))}r{b(".o").9();b(c).J()}b(c).k(3(f){f.1s();2.7("6",d.6,{4:"/"});2.7("h",d.h,{4:"/"});2.7("5",d.5,{4:"/"});2.7("j",d.j,{4:"/"});2.7("S",d.S,{4:"/"});a.G();a.W(d);a.j();a.B();a.5();b(c).D();b(c).I(b(\'<v p="o" F="1e:1m">\').T("Обычная версия"));i m})},t:3(c){b("*").1r(".1D, .6, .6 *,.6 11 .1a-10, .1a-O, .1H").E(3(){b(g).1I({"16-28":c.1x,"12-n":c.w,"12-22":"Z",n:c.n,"16-21":c.R,"1W-1b":"Z","T-1b":"Z","1T-1P":c.1O,"1J-n":c.n})})},5:3(){8(2.e("5")=="14"){b("#Q").z("l");a.t({R:"1G"})}r{b("#Q").H("l")}8(2.e("5")=="18"){b("#L").z("l");a.t({R:"1F"})}r{b("#L").H("l")}8(2.e("5")=="23"){b("#K").z("l");a.t({R:"1B"})}r{b("#K").H("l")}},B:3(){8(2.e("h")=="O"){a.t({w:"#1h",n:"#1i"})}8(2.e("h")=="10"){a.t({w:"#1i",n:"#1h"})}8(2.e("h")=="1j"){a.t({w:"#1A",n:"#1z"})}8(2.e("h")=="1y"){a.t({w:"#1u",n:"#1t"})}8(2.e("h")=="1p"){a.t({w:"#1N",n:"#1q"})}},j:3(){b(".C").9();8(2.e("j")==1){b("11").E(3(){b(g).J()});b(".A").D();b(".y").J();b(".A").H("l");b(".y").z("1n-l")}r{b("11").E(3(){M d=b(g).1v("1w")||"";b(g).D();8(2.e("2c")==1){b(g).I(b(\'<x p="C" F="1l: \'+b(g).1l()+"1k; 1g: "+b(g).1g()+\'1k">\').1C("Изображение : "+d))}r{b(g).I(b(\'<x p="C">\').T("Изображение : "+d))}});b(".y").D();b(".A").J();b(".y").H("1n-l");b(".A").z("l")}},W:3(c){b(1f).1E("k",".o",3(){2.7("6","0",{4:"/"});b(".6").9();b(".o").9();b(".C").9();b("*").E(3(){b(g).19("F")});a.G()});b("#o, .o").k(3(){2.7("6","0",{4:"/"});b(".6").9();b(".o").9();b(".C").9();b("*").E(3(){b(g).19("F")});a.G();i m});b(".A").k(3(){2.7("j","1",{4:"/"});a.j();i m});b(".y").k(3(){2.7("j","0",{4:"/"});a.j();i m});b("#U, .U").k(3(){2.7("h","O",{4:"/"});a.B();i m});b("#Y, .Y").k(3(){2.7("h","10",{4:"/"});a.B();i m});b("#X, .X").k(3(){2.7("h","1j",{4:"/"});a.B();i m});b("#Q").k(3(){2.7("5","14",{4:"/"});a.5();i m});b("#L").k(3(){2.7("5","18",{4:"/"});a.5();i m});b("#K").k(3(){2.7("5","23",{4:"/"});a.5();i m})},G:3(){8(2.e("6")=="1"){b(\'<x p="6"></x>\').1K("1L");b(".6").z("1M 1o");b(\'<x p="P"></x>\').N(".6");b(\'<v u="1R">Размер шрифта:<a s="#" u="Q" q="Размер шрифта 14 пиксилей">А</a><a s="#" u="L" q="Размер шрифта 18 пиксилей">А</a><a s="#" u="K" q="Размер шрифта 23 пиксиля">А</a></v>\').N(".P");b(\'<v u="1U">Цвета сайта:<a s="#" u="U" q="Цветовая схема Черным по белому">Ц</a><a s="#" u="Y" q="Цветовая схема Белым по черному">Ц</a><a s="#" u="X" q="Цветовая схема Темно-синим по голубому">Ц</a></v>\').N(".P");b(\'<v u="1V">Изображения <a s="#" p="A" q="Включить изображения"></a><a s="#" p="y" q="Отключить изображения"></a>&V;&V;&V;<a s="#" p="o" q="Обычная версия сайта"> </a></v>\').N(".P")}r{b(".o").9();8(2.e("S")=="1"){1f.1X.1Y(1Z)}2.9("6",{4:"/"});2.9("h",{4:"/"});2.9("5",{4:"/"});2.9("j",{4:"/"});2.9("S",{4:"/"})}}};b.20.15=3(c){8(a[c]){i a[c].1d(g,24.25.26.27(17,1))}r{8(29 c==="2a"||!c){i a.1c.1d(g,17)}r{b.2b("Метод с именем "+c+" не существует для 13.15")}}}})(13);',62,137,'||Cookies|function|path|panel_font_size|panel_bvi|set|if|remove|||||get||this|panel_bg|return|panel_img|click|active|false|color|panel_close|class|title|else|href|return_set|id|span|background_color|div|panel_img_off|addClass|panel_img_on|panel_bg_color|panel_img_not|hide|each|style|panel|removeClass|after|show|panel_font_size_23|panel_font_size_18|var|appendTo|white|panel_bvi_menu|panel_font_size_14|font_size|panel_reload|text|panel_bg_white|nbsp|link|panel_bg_blue|panel_bg_black|none|black|img|background|jQuery||bvi|font|arguments||removeAttr|bvi_text|shadow|init|apply|cursor|document|height|ffffff|000000|blue|px|width|pointer|no|fadeInDown|green|A9E44D|not|preventDefault|4d4b43|f7f3d6|attr|alt|font_family|brown|063462|9DD1FF|14px|html|panel_img_not_small|on|18px|25px|fa|css|border|prependTo|body|animated|3B2716|letter_spacing|spacing|extend|panel_bvi_2|selector|letter|panel_bvi_4|panel_bvi_3|box|location|reload|true|fn|size|image||Array|prototype|slice|call|family|typeof|object|error|panel_img_X_Y'.split('|'),0,{}))
+(function (b) {
+    var a = {
+        init: function (d) {
+            var c = b(this).selector;
+            var d = b.extend({
+                panel_bvi: 1,
+                panel_bg: "white",
+                panel_font_size: "14",
+                panel_img: 1
+            }, d);
+            if (Cookies.get("panel_bvi") == "1") {
+                a.panel();
+                a.link(d);
+                a.panel_img();
+                a.panel_bg_color();
+                a.panel_font_size();
+                b(c).hide();
+                b(c).after(b('<span class="panel_close" style="cursor:pointer">').text("Обычная версия"))
+            } else {
+                b(".panel_close").remove();
+                b(c).show()
+            }
+            b(c).click(function (f) {
+                f.preventDefault();
+                Cookies.set("panel_bvi", d.panel_bvi, {
+                    path: "/"
+                });
+                Cookies.set("panel_bg", d.panel_bg, {
+                    path: "/"
+                });
+                Cookies.set("panel_font_size", d.panel_font_size, {
+                    path: "/"
+                });
+                Cookies.set("panel_img", d.panel_img, {
+                    path: "/"
+                });
+                Cookies.set("panel_reload", d.panel_reload, {
+                    path: "/"
+                });
+                a.panel();
+                a.link(d);
+                a.panel_img();
+                a.panel_bg_color();
+                a.panel_font_size();
+                b(c).hide();
+                b(c).after(b('<span class="panel_close" style="cursor:pointer">').text("Обычная версия"));
+                return false
+            })
+        },
+        return_set: function (c) {
+            b("*").not(".panel_img_not_small, .panel_bvi, .panel_bvi *,.panel_bvi img .bvi_text-black, .bvi_text-white, .fa").each(function () {
+                b(this).css({
+                    "font-family": c.font_family,
+                    "background-color": c.background_color,
+                    "background-image": "none",
+                    color: c.color,
+                    "font-size": c.font_size,
+                    "box-shadow": "none",
+                    "text-shadow": "none",
+                    "letter-spacing": c.letter_spacing,
+                    "border-color": c.color
+                })
+            })
+        },
+        panel_font_size: function () {
+            if (Cookies.get("panel_font_size") == "14") {
+                b("#panel_font_size_14").addClass("active");
+                a.return_set({
+                    font_size: "30px"                    
+                })
+            } else {
+                b("#panel_font_size_14").removeClass("active")
+            }
+            if (Cookies.get("panel_font_size") == "18") {
+                b("#panel_font_size_18").addClass("active");
+                a.return_set({
+                    font_size: "18px"
+                })
+            } else {
+                b("#panel_font_size_18").removeClass("active")
+            }
+            if (Cookies.get("panel_font_size") == "23") {
+                b("#panel_font_size_23").addClass("active");
+                a.return_set({
+                    font_size: "14px"
+                })
+            } else {
+                b("#panel_font_size_23").removeClass("active")
+            }
+        },
+        panel_bg_color: function () {
+            if (Cookies.get("panel_bg") == "white") {
+                a.return_set({
+                    background_color: "#ffffff",
+                    color: "#000000"
+                })
+            }
+            if (Cookies.get("panel_bg") == "black") {
+                a.return_set({
+                    background_color: "#000000",
+                    color: "#ffffff"
+                })
+            }
+            if (Cookies.get("panel_bg") == "blue") {
+                a.return_set({
+                    background_color: "#9DD1FF",
+                    color: "#063462"
+                })
+            }
+            if (Cookies.get("panel_bg") == "brown") {
+                a.return_set({
+                    background_color: "#f7f3d6",
+                    color: "#4d4b43"
+                })
+            }
+            if (Cookies.get("panel_bg") == "green") {
+                a.return_set({
+                    background_color: "#3B2716",
+                    color: "#A9E44D"
+                })
+            }
+        },
+        panel_img: function () {
+            b(".panel_img_not").remove();
+            if (Cookies.get("panel_img") == 1) {
+                b("img").each(function () {
+                    b(this).show()
+                });
+                b(".panel_img_on").hide();
+                b(".panel_img_off").show();
+                b(".panel_img_on").removeClass("active");
+                b(".panel_img_off").addClass("no-active")
+            } else {
+                b("img").each(function () {
+                    var d = b(this).attr("alt") || "";
+                    b(this).hide();
+                    if (Cookies.get("panel_img_X_Y") == 1) {
+                        b(this).after(b('<div class="panel_img_not" style="width: ' + b(this).width() + "px; height: " + b(this).height() + 'px">').html("Изображение : " + d))
+                    } else {
+                        b(this).after(b('<div class="panel_img_not">').text("Изображение : " + d))
+                    }
+                });
+                b(".panel_img_off").hide();
+                b(".panel_img_on").show();
+                b(".panel_img_off").removeClass("no-active");
+                b(".panel_img_on").addClass("active")
+            }
+        },
+        link: function (c) {
+            b(document).on("click", ".panel_close", function () {
+                Cookies.set("panel_bvi", "0", {
+                    path: "/"
+                });
+                b(".panel_bvi").remove();
+                b(".panel_close").remove();
+                b(".panel_img_not").remove();
+                b("*").each(function () {
+                    b(this).removeAttr("style")
+                });
+                a.panel()
+            });
+            b("#panel_close, .panel_close").click(function () {
+                Cookies.set("panel_bvi", "0", {
+                    path: "/"
+                });
+                b(".panel_bvi").remove();
+                b(".panel_close").remove();
+                b(".panel_img_not").remove();
+                b("*").each(function () {
+                    b(this).removeAttr("style")
+                });
+                a.panel();
+                return false
+            });
+            b(".panel_img_on").click(function () {
+                Cookies.set("panel_img", "1", {
+                    path: "/"
+                });
+                a.panel_img();
+                return false
+            });
+            b(".panel_img_off").click(function () {
+                Cookies.set("panel_img", "0", {
+                    path: "/"
+                });
+                a.panel_img();
+                return false
+            });
+            b("#panel_bg_white, .panel_bg_white").click(function () {
+                Cookies.set("panel_bg", "white", {
+                    path: "/"
+                });
+                a.panel_bg_color();
+                return false
+            });
+            b("#panel_bg_black, .panel_bg_black").click(function () {
+                Cookies.set("panel_bg", "black", {
+                    path: "/"
+                });
+                a.panel_bg_color();
+                return false
+            });
+            b("#panel_bg_blue, .panel_bg_blue").click(function () {
+                Cookies.set("panel_bg", "blue", {
+                    path: "/"
+                });
+                a.panel_bg_color();
+                return false
+            });
+            b("#panel_font_size_14").click(function () {
+                Cookies.set("panel_font_size", "14", {
+                    path: "/"
+                });
+                a.panel_font_size();
+                return false
+            });
+            b("#panel_font_size_18").click(function () {
+                Cookies.set("panel_font_size", "18", {
+                    path: "/"
+                });
+                a.panel_font_size();
+                return false
+            });
+            b("#panel_font_size_23").click(function () {
+                Cookies.set("panel_font_size", "23", {
+                    path: "/"
+                });
+                a.panel_font_size();
+                return false
+            })
+        },
+        panel: function () {
+            if (Cookies.get("panel_bvi") == "1") {
+                b('<div class="panel_bvi"></div>').prependTo("body");
+                b(".panel_bvi").addClass("animated fadeInDown");
+                b('<div class="panel_bvi_menu"></div>').appendTo(".panel_bvi");
+                b('<span id="panel_bvi_2">Размер шрифта:<a href="#" id="panel_font_size_14" title="Размер шрифта 14 пиксилей">А</a><a href="#" id="panel_font_size_18" title="Размер шрифта 18 пиксилей">А</a><a href="#" id="panel_font_size_23" title="Размер шрифта 23 пиксиля">А</a></span>').appendTo(".panel_bvi_menu");
+                b('<span id="panel_bvi_4">Цвета сайта:<a href="#" id="panel_bg_white" title="Цветовая схема Черным по белому">Ц</a><a href="#" id="panel_bg_black" title="Цветовая схема Белым по черному">Ц</a><a href="#" id="panel_bg_blue" title="Цветовая схема Темно-синим по голубому">Ц</a></span>').appendTo(".panel_bvi_menu");
+                b('<span id="panel_bvi_3">Изображения <a href="#" class="panel_img_on" title="Включить изображения"></a><a href="#" class="panel_img_off" title="Отключить изображения"></a>&nbsp;&nbsp;&nbsp;<a href="#" class="panel_close" title="Обычная версия сайта"> </a></span>').appendTo(".panel_bvi_menu")
+            } else {
+                b(".panel_close").remove();
+                document.location.reload()
+                if (Cookies.get("panel_reload") == "1") {
+                    document.location.reload(true)
+                }
+                Cookies.remove("panel_bvi", {
+                    path: "/"
+                });
+                Cookies.remove("panel_bg", {
+                    path: "/"
+                });
+                Cookies.remove("panel_font_size", {
+                    path: "/"
+                });
+                Cookies.remove("panel_img", {
+                    path: "/"
+                });
+                Cookies.remove("panel_reload", {
+                    path: "/"
+                })
+                
+            }
+        }
+    };
+    b.fn.bvi = function (c) {
+        if (a[c]) {
+            return a[c].apply(this, Array.prototype.slice.call(arguments, 1))
+        } else {
+            if (typeof c === "object" || !c) {
+                return a.init.apply(this, arguments)
+            } else {
+                b.error("Метод с именем " + c + " не существует для jQuery.bvi")
+            }
+        }
+    }
+})(jQuery);
