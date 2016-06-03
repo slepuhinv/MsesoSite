@@ -6461,6 +6461,7 @@ input#submit:active, input#submit.active {
     font-size: 30px;
     font-weight: 600;
 }
+
 @media (max-width:1199px) {
     .hentry .entry-title {
     font-size: 30px;
