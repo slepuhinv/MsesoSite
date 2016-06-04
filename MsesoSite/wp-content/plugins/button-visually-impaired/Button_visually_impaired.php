@@ -138,8 +138,9 @@ class Button_visually_impaired_Widget extends WP_Widget
 
     public function template_button()
     {
-        return '<a href="#" class="bvi_panel_open"><i class="fa fa-eye fa-2x bvi_text-black"></i> Версия для слабовидящих</a>';
-    }
+        /*return '<a href="#" class="bvi_panel_open"><i class="fa fa-eye fa-2x bvi_text-black"></i> Версия для слабовидящих</a>';*/
+        return '<a href="#" class="bvi_panel_open"><i class="fa-2x bvi_text-black"></i><FONT color="red"><b>Версия для слабовидящих</b></font></a>';
+	}
 }
 function register_foo_widget() {
     register_widget( 'Button_visually_impaired_Widget' );
