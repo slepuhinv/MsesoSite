@@ -6241,7 +6241,7 @@ input#submit:active, input#submit.active {
 #secondary .widget {
     padding: 25px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    font-size: 14px;
+    font-size: 17px;
 }
 #secondary .widget:last-child {
     border-bottom: none;
