@@ -15,4 +15,4 @@
 		<?php flat_hook_index_bottom(); ?>
 	</div>
 	<?php flat_hook_index_after(); ?>
-<?php /*get_footer();*/ ?>
+<?php get_footer(); ?>
